@@ -1,1 +1,1 @@
-# shitstatic
+# firststaticwebsite
