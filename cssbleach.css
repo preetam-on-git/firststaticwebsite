@@ -1,0 +1,48 @@
+ /**********************************TAG SELECTORS***************************/
+body {
+            background-color: #222222
+        }
+        h1{ 
+            color: white;
+            font-size: 30px;
+        }
+        h3{
+            color: white;
+        }
+
+
+        
+        p{
+            color: white;
+        }
+        ol{color: white;}
+        table{color: white;}
+        form{color: white;}
+
+        hr {
+        
+        border-style: none ;
+        height: 20px;
+        border-color: black;
+        border-width: 5px;
+        width: 5%;}
+
+        
+
+        img {
+            
+            height: 400px;}
+        /*
+            img{ 
+                background-color: aliceblue;
+            }
+        */
+
+        /* class selectors */
+
+        .yachiru{
+            background-color: aliceblue;
+        }
+        
+
+            
